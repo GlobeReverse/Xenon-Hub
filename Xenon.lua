@@ -1,3 +1,4 @@
+--[[ !!! I DID NOT MAKE THIS, THE ORIGINAL CREATOR IS XENON AND THIS CODE IS HEAVILY OUTDATED ]]
 if not game:IsLoaded() then 
     repeat game.Loaded:Wait()
     until game:IsLoaded() 
